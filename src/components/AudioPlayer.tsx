@@ -4,12 +4,12 @@ import { initVisualizer } from '../utils/visualizer';
 
 const songs = [
   {
-    title: "Ambient Dreams",
-    url: "https://raw.githubusercontent.com/yourusername/audio-player/main/public/ambient-dreams.mp3"
+    title: "astrix - git",
+    url: "https://github.com/0AM1/boltviz/raw/refs/heads/main/src/public/track1.mp3"
   },
   {
-    title: "Electronic Pulse",
-    url: "https://raw.githubusercontent.com/yourusername/audio-player/main/public/electronic-pulse.mp3"
+    title: "track - drive",
+    url: "https://drive.google.com/file/d/1vcD7P1o6-3NcgcdmQTNfYuf5UwDHPY64/view?usp=share_link"
   }
 ];
 
